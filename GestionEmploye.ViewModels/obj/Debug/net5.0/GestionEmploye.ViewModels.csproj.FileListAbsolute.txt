@@ -1,0 +1,14 @@
+C:\Users\skalu\Desktop\GestionEmployes\GestionEmploye.ViewModels\bin\Debug\net5.0\GestionEmploye.ViewModels.deps.json
+C:\Users\skalu\Desktop\GestionEmployes\GestionEmploye.ViewModels\bin\Debug\net5.0\GestionEmploye.ViewModels.dll
+C:\Users\skalu\Desktop\GestionEmployes\GestionEmploye.ViewModels\bin\Debug\net5.0\ref\GestionEmploye.ViewModels.dll
+C:\Users\skalu\Desktop\GestionEmployes\GestionEmploye.ViewModels\bin\Debug\net5.0\GestionEmploye.ViewModels.pdb
+C:\Users\skalu\Desktop\GestionEmployes\GestionEmploye.ViewModels\bin\Debug\net5.0\GestionEmploye.Common.dll
+C:\Users\skalu\Desktop\GestionEmployes\GestionEmploye.ViewModels\bin\Debug\net5.0\GestionEmploye.Common.pdb
+C:\Users\skalu\Desktop\GestionEmployes\GestionEmploye.ViewModels\obj\Debug\net5.0\GestionEmploye.ViewModels.csproj.AssemblyReference.cache
+C:\Users\skalu\Desktop\GestionEmployes\GestionEmploye.ViewModels\obj\Debug\net5.0\GestionEmploye.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skalu\Desktop\GestionEmployes\GestionEmploye.ViewModels\obj\Debug\net5.0\GestionEmploye.ViewModels.AssemblyInfoInputs.cache
+C:\Users\skalu\Desktop\GestionEmployes\GestionEmploye.ViewModels\obj\Debug\net5.0\GestionEmploye.ViewModels.AssemblyInfo.cs
+C:\Users\skalu\Desktop\GestionEmployes\GestionEmploye.ViewModels\obj\Debug\net5.0\GestionEmploye.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\skalu\Desktop\GestionEmployes\GestionEmploye.ViewModels\obj\Debug\net5.0\GestionEmploye.ViewModels.dll
+C:\Users\skalu\Desktop\GestionEmployes\GestionEmploye.ViewModels\obj\Debug\net5.0\ref\GestionEmploye.ViewModels.dll
+C:\Users\skalu\Desktop\GestionEmployes\GestionEmploye.ViewModels\obj\Debug\net5.0\GestionEmploye.ViewModels.pdb
