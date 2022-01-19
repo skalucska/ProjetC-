@@ -9,3 +9,14 @@ C:\Users\skalu\Desktop\GestionEmployes\GestionEmploye.Common\obj\Debug\net5.0\Ge
 C:\Users\skalu\Desktop\GestionEmployes\GestionEmploye.Common\obj\Debug\net5.0\GestionEmploye.Common.dll
 C:\Users\skalu\Desktop\GestionEmployes\GestionEmploye.Common\obj\Debug\net5.0\ref\GestionEmploye.Common.dll
 C:\Users\skalu\Desktop\GestionEmployes\GestionEmploye.Common\obj\Debug\net5.0\GestionEmploye.Common.pdb
+D:\oui\ProjetC-\GestionEmploye.Common\bin\Debug\net5.0\GestionEmploye.Common.deps.json
+D:\oui\ProjetC-\GestionEmploye.Common\bin\Debug\net5.0\GestionEmploye.Common.dll
+D:\oui\ProjetC-\GestionEmploye.Common\bin\Debug\net5.0\ref\GestionEmploye.Common.dll
+D:\oui\ProjetC-\GestionEmploye.Common\bin\Debug\net5.0\GestionEmploye.Common.pdb
+D:\oui\ProjetC-\GestionEmploye.Common\obj\Debug\net5.0\GestionEmploye.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\oui\ProjetC-\GestionEmploye.Common\obj\Debug\net5.0\GestionEmploye.Common.AssemblyInfoInputs.cache
+D:\oui\ProjetC-\GestionEmploye.Common\obj\Debug\net5.0\GestionEmploye.Common.AssemblyInfo.cs
+D:\oui\ProjetC-\GestionEmploye.Common\obj\Debug\net5.0\GestionEmploye.Common.csproj.CoreCompileInputs.cache
+D:\oui\ProjetC-\GestionEmploye.Common\obj\Debug\net5.0\GestionEmploye.Common.dll
+D:\oui\ProjetC-\GestionEmploye.Common\obj\Debug\net5.0\ref\GestionEmploye.Common.dll
+D:\oui\ProjetC-\GestionEmploye.Common\obj\Debug\net5.0\GestionEmploye.Common.pdb

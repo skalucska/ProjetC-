@@ -61,3 +61,8 @@ C:\Users\skalu\Desktop\GestionEmployes\GestionEmploye.EFcoreDemo\obj\Debug\net5.
 C:\Users\skalu\Desktop\GestionEmployes\GestionEmploye.EFcoreDemo\obj\Debug\net5.0\ref\GestionEmploye.EFcoreDemo.dll
 C:\Users\skalu\Desktop\GestionEmployes\GestionEmploye.EFcoreDemo\obj\Debug\net5.0\GestionEmploye.EFcoreDemo.pdb
 C:\Users\skalu\Desktop\GestionEmployes\GestionEmploye.EFcoreDemo\obj\Debug\net5.0\GestionEmploye.EFcoreDemo.genruntimeconfig.cache
+D:\oui\ProjetC-\GestionEmploye.EFcoreDemo\obj\Debug\net5.0\GestionEmploye.EFcoreDemo.csproj.AssemblyReference.cache
+D:\oui\ProjetC-\GestionEmploye.EFcoreDemo\obj\Debug\net5.0\GestionEmploye.EFcoreDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\oui\ProjetC-\GestionEmploye.EFcoreDemo\obj\Debug\net5.0\GestionEmploye.EFcoreDemo.AssemblyInfoInputs.cache
+D:\oui\ProjetC-\GestionEmploye.EFcoreDemo\obj\Debug\net5.0\GestionEmploye.EFcoreDemo.AssemblyInfo.cs
+D:\oui\ProjetC-\GestionEmploye.EFcoreDemo\obj\Debug\net5.0\GestionEmploye.EFcoreDemo.csproj.CoreCompileInputs.cache

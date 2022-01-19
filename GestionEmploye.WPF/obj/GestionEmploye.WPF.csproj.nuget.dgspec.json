@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\skalu\\Desktop\\GestionEmployes\\GestionEmploye.WPF\\GestionEmploye.WPF.csproj": {}
+    "D:\\oui\\ProjetC-\\GestionEmploye.WPF\\GestionEmploye.WPF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\skalu\\Desktop\\GestionEmployes\\GestionEmploye.Common\\GestionEmploye.Common.csproj": {
+    "D:\\oui\\ProjetC-\\GestionEmploye.Common\\GestionEmploye.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\skalu\\Desktop\\GestionEmployes\\GestionEmploye.Common\\GestionEmploye.Common.csproj",
+        "projectUniqueName": "D:\\oui\\ProjetC-\\GestionEmploye.Common\\GestionEmploye.Common.csproj",
         "projectName": "GestionEmploye.Common",
-        "projectPath": "C:\\Users\\skalu\\Desktop\\GestionEmployes\\GestionEmploye.Common\\GestionEmploye.Common.csproj",
-        "packagesPath": "C:\\Users\\skalu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\skalu\\Desktop\\GestionEmployes\\GestionEmploye.Common\\obj\\",
+        "projectPath": "D:\\oui\\ProjetC-\\GestionEmploye.Common\\GestionEmploye.Common.csproj",
+        "packagesPath": "C:\\Users\\jujud\\.nuget\\packages\\",
+        "outputPath": "D:\\oui\\ProjetC-\\GestionEmploye.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\Program Files\\VS\\Composant\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\skalu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jujud\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,24 +58,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\skalu\\Desktop\\GestionEmployes\\GestionEmploye.DataAccess\\GestionEmploye.DataAccess.csproj": {
+    "D:\\oui\\ProjetC-\\GestionEmploye.DataAccess\\GestionEmploye.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\skalu\\Desktop\\GestionEmployes\\GestionEmploye.DataAccess\\GestionEmploye.DataAccess.csproj",
+        "projectUniqueName": "D:\\oui\\ProjetC-\\GestionEmploye.DataAccess\\GestionEmploye.DataAccess.csproj",
         "projectName": "GestionEmploye.DataAccess",
-        "projectPath": "C:\\Users\\skalu\\Desktop\\GestionEmployes\\GestionEmploye.DataAccess\\GestionEmploye.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\skalu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\skalu\\Desktop\\GestionEmployes\\GestionEmploye.DataAccess\\obj\\",
+        "projectPath": "D:\\oui\\ProjetC-\\GestionEmploye.DataAccess\\GestionEmploye.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\jujud\\.nuget\\packages\\",
+        "outputPath": "D:\\oui\\ProjetC-\\GestionEmploye.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\Program Files\\VS\\Composant\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\skalu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jujud\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -90,8 +90,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\skalu\\Desktop\\GestionEmployes\\GestionEmploye.Common\\GestionEmploye.Common.csproj": {
-                "projectPath": "C:\\Users\\skalu\\Desktop\\GestionEmployes\\GestionEmploye.Common\\GestionEmploye.Common.csproj"
+              "D:\\oui\\ProjetC-\\GestionEmploye.Common\\GestionEmploye.Common.csproj": {
+                "projectPath": "D:\\oui\\ProjetC-\\GestionEmploye.Common\\GestionEmploye.Common.csproj"
               }
             }
           }
@@ -120,24 +120,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\skalu\\Desktop\\GestionEmployes\\GestionEmploye.ViewModels\\GestionEmploye.ViewModels.csproj": {
+    "D:\\oui\\ProjetC-\\GestionEmploye.ViewModels\\GestionEmploye.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\skalu\\Desktop\\GestionEmployes\\GestionEmploye.ViewModels\\GestionEmploye.ViewModels.csproj",
+        "projectUniqueName": "D:\\oui\\ProjetC-\\GestionEmploye.ViewModels\\GestionEmploye.ViewModels.csproj",
         "projectName": "GestionEmploye.ViewModels",
-        "projectPath": "C:\\Users\\skalu\\Desktop\\GestionEmployes\\GestionEmploye.ViewModels\\GestionEmploye.ViewModels.csproj",
-        "packagesPath": "C:\\Users\\skalu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\skalu\\Desktop\\GestionEmployes\\GestionEmploye.ViewModels\\obj\\",
+        "projectPath": "D:\\oui\\ProjetC-\\GestionEmploye.ViewModels\\GestionEmploye.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\jujud\\.nuget\\packages\\",
+        "outputPath": "D:\\oui\\ProjetC-\\GestionEmploye.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\Program Files\\VS\\Composant\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\skalu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jujud\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -152,8 +152,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\skalu\\Desktop\\GestionEmployes\\GestionEmploye.Common\\GestionEmploye.Common.csproj": {
-                "projectPath": "C:\\Users\\skalu\\Desktop\\GestionEmployes\\GestionEmploye.Common\\GestionEmploye.Common.csproj"
+              "D:\\oui\\ProjetC-\\GestionEmploye.Common\\GestionEmploye.Common.csproj": {
+                "projectPath": "D:\\oui\\ProjetC-\\GestionEmploye.Common\\GestionEmploye.Common.csproj"
               }
             }
           }
@@ -182,24 +182,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\skalu\\Desktop\\GestionEmployes\\GestionEmploye.WPF\\GestionEmploye.WPF.csproj": {
+    "D:\\oui\\ProjetC-\\GestionEmploye.WPF\\GestionEmploye.WPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\skalu\\Desktop\\GestionEmployes\\GestionEmploye.WPF\\GestionEmploye.WPF.csproj",
+        "projectUniqueName": "D:\\oui\\ProjetC-\\GestionEmploye.WPF\\GestionEmploye.WPF.csproj",
         "projectName": "GestionEmploye.WPF",
-        "projectPath": "C:\\Users\\skalu\\Desktop\\GestionEmployes\\GestionEmploye.WPF\\GestionEmploye.WPF.csproj",
-        "packagesPath": "C:\\Users\\skalu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\skalu\\Desktop\\GestionEmployes\\GestionEmploye.WPF\\obj\\",
+        "projectPath": "D:\\oui\\ProjetC-\\GestionEmploye.WPF\\GestionEmploye.WPF.csproj",
+        "packagesPath": "C:\\Users\\jujud\\.nuget\\packages\\",
+        "outputPath": "D:\\oui\\ProjetC-\\GestionEmploye.WPF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\Program Files\\VS\\Composant\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\skalu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jujud\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -214,11 +214,11 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Users\\skalu\\Desktop\\GestionEmployes\\GestionEmploye.DataAccess\\GestionEmploye.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\skalu\\Desktop\\GestionEmployes\\GestionEmploye.DataAccess\\GestionEmploye.DataAccess.csproj"
+              "D:\\oui\\ProjetC-\\GestionEmploye.DataAccess\\GestionEmploye.DataAccess.csproj": {
+                "projectPath": "D:\\oui\\ProjetC-\\GestionEmploye.DataAccess\\GestionEmploye.DataAccess.csproj"
               },
-              "C:\\Users\\skalu\\Desktop\\GestionEmployes\\GestionEmploye.ViewModels\\GestionEmploye.ViewModels.csproj": {
-                "projectPath": "C:\\Users\\skalu\\Desktop\\GestionEmployes\\GestionEmploye.ViewModels\\GestionEmploye.ViewModels.csproj"
+              "D:\\oui\\ProjetC-\\GestionEmploye.ViewModels\\GestionEmploye.ViewModels.csproj": {
+                "projectPath": "D:\\oui\\ProjetC-\\GestionEmploye.ViewModels\\GestionEmploye.ViewModels.csproj"
               }
             }
           }
@@ -250,7 +250,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
