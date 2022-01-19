@@ -66,3 +66,16 @@ D:\oui\ProjetC-\GestionEmploye.EFcoreDemo\obj\Debug\net5.0\GestionEmploye.EFcore
 D:\oui\ProjetC-\GestionEmploye.EFcoreDemo\obj\Debug\net5.0\GestionEmploye.EFcoreDemo.AssemblyInfoInputs.cache
 D:\oui\ProjetC-\GestionEmploye.EFcoreDemo\obj\Debug\net5.0\GestionEmploye.EFcoreDemo.AssemblyInfo.cs
 D:\oui\ProjetC-\GestionEmploye.EFcoreDemo\obj\Debug\net5.0\GestionEmploye.EFcoreDemo.csproj.CoreCompileInputs.cache
+D:\oui\ProjetC-\GestionEmploye.EFcoreDemo\bin\Debug\net5.0\GestionEmploye.EFcoreDemo.deps.json
+D:\oui\ProjetC-\GestionEmploye.EFcoreDemo\bin\Debug\net5.0\GestionEmploye.EFcoreDemo.runtimeconfig.json
+D:\oui\ProjetC-\GestionEmploye.EFcoreDemo\bin\Debug\net5.0\GestionEmploye.EFcoreDemo.runtimeconfig.dev.json
+D:\oui\ProjetC-\GestionEmploye.EFcoreDemo\bin\Debug\net5.0\GestionEmploye.EFcoreDemo.dll
+D:\oui\ProjetC-\GestionEmploye.EFcoreDemo\bin\Debug\net5.0\ref\GestionEmploye.EFcoreDemo.dll
+D:\oui\ProjetC-\GestionEmploye.EFcoreDemo\bin\Debug\net5.0\GestionEmploye.EFcoreDemo.pdb
+D:\oui\ProjetC-\GestionEmploye.EFcoreDemo\bin\Debug\net5.0\GestionEmploye.Common.dll
+D:\oui\ProjetC-\GestionEmploye.EFcoreDemo\bin\Debug\net5.0\GestionEmploye.Common.pdb
+D:\oui\ProjetC-\GestionEmploye.EFcoreDemo\obj\Debug\net5.0\GestionEmploye.EFcoreDemo.csproj.CopyComplete
+D:\oui\ProjetC-\GestionEmploye.EFcoreDemo\obj\Debug\net5.0\GestionEmploye.EFcoreDemo.dll
+D:\oui\ProjetC-\GestionEmploye.EFcoreDemo\obj\Debug\net5.0\ref\GestionEmploye.EFcoreDemo.dll
+D:\oui\ProjetC-\GestionEmploye.EFcoreDemo\obj\Debug\net5.0\GestionEmploye.EFcoreDemo.pdb
+D:\oui\ProjetC-\GestionEmploye.EFcoreDemo\obj\Debug\net5.0\GestionEmploye.EFcoreDemo.genruntimeconfig.cache
