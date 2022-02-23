@@ -1522,7 +1522,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "GestionEmploye.Common": "1.0.0"
+          "GestionEmploye.Common": "1.0.0",
+          "GestionEmploye.EFcoreDemo": "1.0.0"
         },
         "compile": {
           "bin/placeholder/GestionEmploye.DataAccess.dll": {}
@@ -5833,25 +5834,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jujud\\.nuget\\packages\\": {},
-    "E:\\Program Files\\VS\\Composant\\NuGetPackages": {}
+    "C:\\Users\\PC-Portable\\.nuget\\packages\\": {},
+    "E:\\Program\\VSSDK\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\oui\\ProjetC-\\GestionEmploye.WPF\\GestionEmploye.WPF.csproj",
+      "projectUniqueName": "D:\\Project\\c#\\ProjetC-\\GestionEmploye.WPF\\GestionEmploye.WPF.csproj",
       "projectName": "GestionEmploye.WPF",
-      "projectPath": "D:\\oui\\ProjetC-\\GestionEmploye.WPF\\GestionEmploye.WPF.csproj",
-      "packagesPath": "C:\\Users\\jujud\\.nuget\\packages\\",
-      "outputPath": "D:\\oui\\ProjetC-\\GestionEmploye.WPF\\obj\\",
+      "projectPath": "D:\\Project\\c#\\ProjetC-\\GestionEmploye.WPF\\GestionEmploye.WPF.csproj",
+      "packagesPath": "C:\\Users\\PC-Portable\\.nuget\\packages\\",
+      "outputPath": "D:\\Project\\c#\\ProjetC-\\GestionEmploye.WPF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "E:\\Program Files\\VS\\Composant\\NuGetPackages"
+        "E:\\Program\\VSSDK\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\jujud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC-Portable\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0-windows7.0"
@@ -5864,14 +5868,14 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "D:\\oui\\ProjetC-\\GestionEmploye.DataAccess\\GestionEmploye.DataAccess.csproj": {
-              "projectPath": "D:\\oui\\ProjetC-\\GestionEmploye.DataAccess\\GestionEmploye.DataAccess.csproj"
+            "D:\\Project\\c#\\ProjetC-\\GestionEmploye.DataAccess\\GestionEmploye.DataAccess.csproj": {
+              "projectPath": "D:\\Project\\c#\\ProjetC-\\GestionEmploye.DataAccess\\GestionEmploye.DataAccess.csproj"
             },
-            "D:\\oui\\ProjetC-\\GestionEmploye.EFcoreDemo\\GestionEmploye.EFcoreDemo.csproj": {
-              "projectPath": "D:\\oui\\ProjetC-\\GestionEmploye.EFcoreDemo\\GestionEmploye.EFcoreDemo.csproj"
+            "D:\\Project\\c#\\ProjetC-\\GestionEmploye.EFcoreDemo\\GestionEmploye.EFcoreDemo.csproj": {
+              "projectPath": "D:\\Project\\c#\\ProjetC-\\GestionEmploye.EFcoreDemo\\GestionEmploye.EFcoreDemo.csproj"
             },
-            "D:\\oui\\ProjetC-\\GestionEmploye.ViewModels\\GestionEmploye.ViewModels.csproj": {
-              "projectPath": "D:\\oui\\ProjetC-\\GestionEmploye.ViewModels\\GestionEmploye.ViewModels.csproj"
+            "D:\\Project\\c#\\ProjetC-\\GestionEmploye.ViewModels\\GestionEmploye.ViewModels.csproj": {
+              "projectPath": "D:\\Project\\c#\\ProjetC-\\GestionEmploye.ViewModels\\GestionEmploye.ViewModels.csproj"
             }
           }
         }
@@ -5911,7 +5915,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }

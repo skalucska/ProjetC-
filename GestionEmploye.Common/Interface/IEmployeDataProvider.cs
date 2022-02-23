@@ -11,6 +11,7 @@ namespace GestionEmploye.Common.Interface
     {
         IEnumerable<Employe> ChargerEmployes();
         void SauvegarderEmploye(Employe employe);
+        void AddEmploye(Employe employe);
         IEnumerable<Role> ChargerRoles();
     }
 }

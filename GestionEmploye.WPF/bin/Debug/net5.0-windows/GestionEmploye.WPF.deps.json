@@ -995,7 +995,8 @@
       },
       "GestionEmploye.DataAccess/1.0.0": {
         "dependencies": {
-          "GestionEmploye.Common": "1.0.0"
+          "GestionEmploye.Common": "1.0.0",
+          "GestionEmploye.EFcoreDemo": "1.0.0"
         },
         "runtime": {
           "GestionEmploye.DataAccess.dll": {}

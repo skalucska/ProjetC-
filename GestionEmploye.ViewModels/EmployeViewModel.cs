@@ -32,8 +32,7 @@ namespace GestionEmploye.ViewModels
         public bool PeutSauvegarder => !string.IsNullOrWhiteSpace(Prenom)
                                    && !string.IsNullOrWhiteSpace(Nom);
 
-        
-        
+
         public void Sauvegarder()
         {
             _employeDP.SauvegarderEmploye(_employe);

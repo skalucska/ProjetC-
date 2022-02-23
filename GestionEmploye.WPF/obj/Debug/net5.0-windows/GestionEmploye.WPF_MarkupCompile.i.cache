@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\oui\ProjetC-\GestionEmploye.WPF\obj\Debug\net5.0-windows\
+D:\Project\c#\ProjetC-\GestionEmploye.WPF\obj\Debug\net5.0-windows\
 GestionEmploye.WPF
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-D:\oui\ProjetC-\GestionEmploye.WPF\App.xaml
-11407045341
+D:\Project\c#\ProjetC-\GestionEmploye.WPF\App.xaml
+2-269869989
 
-5271130826
-2191543676033
-MainWindow.xaml;
+61310728062
+2191848790103
+MainWindow.xaml;SubWindow.xaml;
 
 False
 

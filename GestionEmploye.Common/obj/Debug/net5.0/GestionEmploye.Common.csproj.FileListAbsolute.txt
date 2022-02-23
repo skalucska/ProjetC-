@@ -20,3 +20,15 @@ D:\oui\ProjetC-\GestionEmploye.Common\obj\Debug\net5.0\GestionEmploye.Common.csp
 D:\oui\ProjetC-\GestionEmploye.Common\obj\Debug\net5.0\GestionEmploye.Common.dll
 D:\oui\ProjetC-\GestionEmploye.Common\obj\Debug\net5.0\ref\GestionEmploye.Common.dll
 D:\oui\ProjetC-\GestionEmploye.Common\obj\Debug\net5.0\GestionEmploye.Common.pdb
+D:\Project\c#\ProjetC-\GestionEmploye.Common\bin\Debug\net5.0\GestionEmploye.Common.deps.json
+D:\Project\c#\ProjetC-\GestionEmploye.Common\bin\Debug\net5.0\GestionEmploye.Common.dll
+D:\Project\c#\ProjetC-\GestionEmploye.Common\bin\Debug\net5.0\ref\GestionEmploye.Common.dll
+D:\Project\c#\ProjetC-\GestionEmploye.Common\bin\Debug\net5.0\GestionEmploye.Common.pdb
+D:\Project\c#\ProjetC-\GestionEmploye.Common\obj\Debug\net5.0\GestionEmploye.Common.csproj.AssemblyReference.cache
+D:\Project\c#\ProjetC-\GestionEmploye.Common\obj\Debug\net5.0\GestionEmploye.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\c#\ProjetC-\GestionEmploye.Common\obj\Debug\net5.0\GestionEmploye.Common.AssemblyInfoInputs.cache
+D:\Project\c#\ProjetC-\GestionEmploye.Common\obj\Debug\net5.0\GestionEmploye.Common.AssemblyInfo.cs
+D:\Project\c#\ProjetC-\GestionEmploye.Common\obj\Debug\net5.0\GestionEmploye.Common.csproj.CoreCompileInputs.cache
+D:\Project\c#\ProjetC-\GestionEmploye.Common\obj\Debug\net5.0\GestionEmploye.Common.dll
+D:\Project\c#\ProjetC-\GestionEmploye.Common\obj\Debug\net5.0\ref\GestionEmploye.Common.dll
+D:\Project\c#\ProjetC-\GestionEmploye.Common\obj\Debug\net5.0\GestionEmploye.Common.pdb

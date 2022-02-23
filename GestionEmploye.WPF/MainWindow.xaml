@@ -28,6 +28,7 @@
 
         <StackPanel Grid.Row="1">
             <Button Content="Rafraîchir" Background="Pink" BorderBrush="Black" BorderThickness="1" Margin="10" Command="{Binding ChargerCmd}"/>
+            <Button Content="Ajout Employé" Click="AddButton" Background="Pink" BorderBrush="Black" BorderThickness="1" Margin="10"/>
 
             <ListView ItemsSource="{Binding Employes}" 
                       SelectedItem="{Binding EmployeSelectionne, Mode=TwoWay}"
@@ -64,13 +65,13 @@
             <ComboBox Grid.Row="7"   
                 ItemsSource="{Binding Roles,Mode=OneWay}"
                 DisplayMemberPath="Nom"
-                SelectedValuePath="Id"
+                SelectedValuePath="IdRole"
                 SelectedValue="{Binding EmployeSelectionne.RoleId, Mode=TwoWay}" Margin="10"/>
 
             <CheckBox Grid.Row="8" Content="Pilote de ligne" IsChecked="{Binding EmployeSelectionne.EstPiloteDeLigne, Mode=TwoWay}" Margin="10"/>
 
             <Button Grid.Row="9" Content="Enregistrer" Background="pink" BorderBrush="Black" BorderThickness="1" Margin="10 10 10 30"
-                    Command="{Binding EmploySelectionne.SauvegarderCmd}"
+                    Command="{Binding EmployeSelectionne.SauvegarderCmd}"
                     VerticalAlignment="Bottom"/>
         </Grid>
 

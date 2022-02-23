@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\GestionEmploye.Common\GestionEmploye.Common.csproj" />
+    <ProjectReference Include="..\GestionEmploye.EFcoreDemo\GestionEmploye.EFcoreDemo.csproj" />
   </ItemGroup>
 
 </Project>

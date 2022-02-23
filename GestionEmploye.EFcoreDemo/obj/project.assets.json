@@ -5813,25 +5813,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jujud\\.nuget\\packages\\": {},
-    "E:\\Program Files\\VS\\Composant\\NuGetPackages": {}
+    "C:\\Users\\PC-Portable\\.nuget\\packages\\": {},
+    "E:\\Program\\VSSDK\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\oui\\ProjetC-\\GestionEmploye.EFcoreDemo\\GestionEmploye.EFcoreDemo.csproj",
+      "projectUniqueName": "D:\\Project\\c#\\ProjetC-\\GestionEmploye.EFcoreDemo\\GestionEmploye.EFcoreDemo.csproj",
       "projectName": "GestionEmploye.EFcoreDemo",
-      "projectPath": "D:\\oui\\ProjetC-\\GestionEmploye.EFcoreDemo\\GestionEmploye.EFcoreDemo.csproj",
-      "packagesPath": "C:\\Users\\jujud\\.nuget\\packages\\",
-      "outputPath": "D:\\oui\\ProjetC-\\GestionEmploye.EFcoreDemo\\obj\\",
+      "projectPath": "D:\\Project\\c#\\ProjetC-\\GestionEmploye.EFcoreDemo\\GestionEmploye.EFcoreDemo.csproj",
+      "packagesPath": "C:\\Users\\PC-Portable\\.nuget\\packages\\",
+      "outputPath": "D:\\Project\\c#\\ProjetC-\\GestionEmploye.EFcoreDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "E:\\Program Files\\VS\\Composant\\NuGetPackages"
+        "E:\\Program\\VSSDK\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\jujud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC-Portable\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -5844,8 +5847,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\oui\\ProjetC-\\GestionEmploye.Common\\GestionEmploye.Common.csproj": {
-              "projectPath": "D:\\oui\\ProjetC-\\GestionEmploye.Common\\GestionEmploye.Common.csproj"
+            "D:\\Project\\c#\\ProjetC-\\GestionEmploye.Common\\GestionEmploye.Common.csproj": {
+              "projectPath": "D:\\Project\\c#\\ProjetC-\\GestionEmploye.Common\\GestionEmploye.Common.csproj"
             }
           }
         }
@@ -5890,7 +5893,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -23,12 +23,14 @@ namespace GestionEmploye.WPF
     public partial class MainWindow : Window
     {
         private MainViewModel _viewModel;
+        private EmployeDataProvider _employeDataProvider;
 
         public MainWindow()
         {
             InitializeComponent();
 
-            _viewModel = new MainViewModel(new EmployeDataProvider());
+            _employeDataProvider = new EmployeDataProvider();
+            _viewModel = new MainViewModel(_employeDataProvider);
             DataContext = _viewModel;
             Activated += MainWindow_Activated1;
         }
@@ -36,6 +38,11 @@ namespace GestionEmploye.WPF
         private void MainWindow_Activated1(object sender, EventArgs e)
         {
             _viewModel.Charger();
+        }
+        private void AddButton(object sender, RoutedEventArgs e)
+        {
+            SubWindow subWindow = new SubWindow(_employeDataProvider);
+            subWindow.Show();
         }
     }
 }

@@ -1,4 +1,5 @@
-﻿using GestionEmploye.Common.Interface;
+﻿using GestionEmploye.Common;
+using GestionEmploye.Common.Interface;
 using GestionEmploye.Common.Model;
 using GestionEmploye.ViewModels.Command;
 using System;
@@ -22,6 +23,7 @@ namespace GestionEmploye.ViewModels
             _employeDataProvider = employeDP;
             Employes = new(); // instanciation de la liste sucre syntaxique new()
             ChargerCmd = new DelegateCommand(Charger);
+           
 
         }
 
